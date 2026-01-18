@@ -1,0 +1,8 @@
+name: portfolio
+location: East US
+resourceGroup: portfolio-group
+app: static-web-app
+sku: Free
+apiLocation: api
+appLocation: src/pages
+outputLocation: .next
